@@ -26,11 +26,11 @@ const BLOCKS_IN_FUTURE =2;
 const GWEI = BigNumber.from(10).pow(9);
 const PRIORITY_GAS_PRICE = GWEI.mul(31)
 
-const PRIVATE_KEY_EXECUTOR = "0x8461620dc685d4afcfc3d00ee7c20fd9fda11c1ffc281e230010219621ccdde7";
+const PRIVATE_KEY_EXECUTOR = "0x8461620dc685d4afcfc3d0---------------------------";
 //const PRIVATE_KEY_SPONSOR = "0xcd1eda00ea7b602af74fbba0dcf450e7544d271c024fcdfbcedbaf6861b6c6af"; // FOR ERC
-const PRIVATE_KEY_SPONSOR = "4528e43f1d9bb530597b341e255e79a1aaad810bedaa3ed34f9d086b6d2dc7ba";
+const PRIVATE_KEY_SPONSOR = "4528e43f1d9bb530597b341e2---------------------------";
 
-const FLASHBOTS_RELAY_SIGNING_KEY = "4528e43f1d9bb530597b341e255e79a1aaad810bedaa3ed34f9d086b6d2dc7ba";
+const FLASHBOTS_RELAY_SIGNING_KEY = "4528e43f1d9bb530-----------------------------";
 const RECIPIENT = "0x0Cca1cC1DF22ca762ADb818Ed96097e269070e62";
 
 
