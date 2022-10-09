@@ -11,11 +11,11 @@ import {TransferERC20} from "./engine/TransferERC20";
 require('log-timestamp');
 
 //Compromise Wallet Phrase: year tag motion biology chuckle more wood minor miracle canal enlist assume
-//Compromise Eth Pkey: 0x8461620dc685d4afcfc3d00ee7c20fd9fda11c1ffc281e230010219621ccdde7
-//Compromise bsc Pkey: 0x8461620dc685d4afcfc3d00ee7c20fd9fda11c1ffc281e230010219621ccdde7
+//Compromise Eth Pkey: 0x8461620dc685d4afcfc3d00ee7--------------------------------------
+//Compromise bsc Pkey: 0x8461620dc685d4afcfc3d00ee7----------------------------------------
 
-// BSC Spender PKey: 4528e43f1d9bb530597b341e255e79a1aaad810bedaa3ed34f9d086b6d2dc7ba
-// SRC Spender PKey: 9ae64498f1b3634ae91ed4d9b407af84c14be9a4e4e4b3f0b4030af6c436d719
+// BSC Spender PKey: 4528e43f1d9bb530597b341e255e7-----------------------------------------
+// SRC Spender PKey: 9ae64498f1b3634ae91ed4d9b407-------------------------------------------
 
 // BSC Collector: 0x0Cca1cC1DF22ca762ADb818Ed96097e269070e62
 
